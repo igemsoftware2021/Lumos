@@ -1,4 +1,4 @@
-# Lumos
+# Lumos by iGEM Calgary
 Low-cost, modular luminometer 
 
 **How it works** \
